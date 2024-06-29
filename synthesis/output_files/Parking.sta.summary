@@ -1,0 +1,101 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'car_entered'
+Slack : -5.648
+TNS   : -154.008
+
+Type  : Slow 1200mV 85C Model Setup 'start'
+Slack : -2.890
+TNS   : -62.159
+
+Type  : Slow 1200mV 85C Model Hold 'car_entered'
+Slack : -3.888
+TNS   : -97.207
+
+Type  : Slow 1200mV 85C Model Hold 'start'
+Slack : 0.499
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'car_entered'
+Slack : -0.371
+TNS   : -5.216
+
+Type  : Slow 1200mV 85C Model Removal 'car_entered'
+Slack : -3.334
+TNS   : -85.926
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'start'
+Slack : -3.000
+TNS   : -27.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'car_entered'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Setup 'car_entered'
+Slack : -5.060
+TNS   : -137.443
+
+Type  : Slow 1200mV 0C Model Setup 'start'
+Slack : -2.560
+TNS   : -54.453
+
+Type  : Slow 1200mV 0C Model Hold 'car_entered'
+Slack : -3.448
+TNS   : -85.968
+
+Type  : Slow 1200mV 0C Model Hold 'start'
+Slack : 0.440
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'car_entered'
+Slack : -0.398
+TNS   : -6.240
+
+Type  : Slow 1200mV 0C Model Removal 'car_entered'
+Slack : -2.935
+TNS   : -74.886
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'start'
+Slack : -3.000
+TNS   : -27.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'car_entered'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Setup 'car_entered'
+Slack : -3.261
+TNS   : -89.559
+
+Type  : Fast 1200mV 0C Model Setup 'start'
+Slack : -1.204
+TNS   : -24.614
+
+Type  : Fast 1200mV 0C Model Hold 'car_entered'
+Slack : -2.404
+TNS   : -60.900
+
+Type  : Fast 1200mV 0C Model Hold 'start'
+Slack : 0.273
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'car_entered'
+Slack : -0.226
+TNS   : -2.346
+
+Type  : Fast 1200mV 0C Model Removal 'car_entered'
+Slack : -2.047
+TNS   : -53.013
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'start'
+Slack : -3.000
+TNS   : -27.408
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'car_entered'
+Slack : -3.000
+TNS   : -3.082
+
+------------------------------------------------------------
